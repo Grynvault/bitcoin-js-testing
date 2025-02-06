@@ -1,0 +1,18 @@
+{
+  "name": "bitcoin",
+  "version": "1.0.0",
+  "main": "btc-bip32.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bitcoinjs-lib": "^6.1.7",
+    "dotenv": "^16.4.7",
+    "ecpair": "^3.0.0-rc.0",
+    "tiny-secp256k1": "^2.2.3"
+  }
+}
