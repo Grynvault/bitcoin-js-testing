@@ -1,0 +1,1 @@
+### FOR REGTEST, you need to make a change to the URI/port for node_modules/bitcoin-core/index.js:37 from 8332 to 18443, or whaver you set your local bitcoin.conf for regtest rpcport to.
